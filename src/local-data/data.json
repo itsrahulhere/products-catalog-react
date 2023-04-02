@@ -1,0 +1,85 @@
+{
+    "posts": [
+        {
+            "id": 0,
+            "title": "json-server",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055",
+            "image2":"https://imgv3.fotor.com/images/blog-cover-image/part-blurry-image.jpg",
+            "image3":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055",
+            "image4":"https://imgv3.fotor.com/images/blog-cover-image/part-blurry-image.jpg"
+        },
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        },
+        {
+            "id": 2,
+            "title": "json-server-2",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        
+        },
+        {
+            "id": 3,
+            "title": "json-server-3",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        
+        },
+        {
+            "id": 4,
+            "title": "json-server-4",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        
+        },
+        {
+            "id": 5,
+            "title": "json-server-5",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        
+        },
+        {
+            "id": 6,
+            "title": "json-server",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        
+        },
+        {
+            "id": 7,
+            "title": "json-server-2",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        
+        },
+        {
+            "id": 8,
+            "title": "json-server-3",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        
+        },
+        {
+            "id": 9,
+            "title": "json-server-4",
+            "author": "typicode",
+            "image1":"https://cdn.shopify.com/s/files/1/0593/5346/4994/products/Webp.net-resizeimage-2_315b0dbe-cc67-47a2-b9c6-6f8f1f423584_1800x1800.jpg?v=1677903055"
+        
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}

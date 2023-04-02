@@ -1,0 +1,11 @@
+.productPage-texts{
+    text-align: left;
+}
+
+.carousel-indicators:hover{
+    cursor: pointer;
+}
+
+.carousel-item img {
+    height: 500px;
+}

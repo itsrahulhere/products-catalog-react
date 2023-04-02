@@ -1,0 +1,47 @@
+.Contact{
+  background-color: rgba(245, 245, 245, 0.559);
+}
+
+.contact-info {
+  text-align: left;
+}
+
+.contact-title{
+  color:rgb(205, 66, 66);
+  
+}
+
+input, textarea {
+  margin-bottom: 10px;
+  background-color: rgb(231, 231, 231);
+  border: 1px solid rgb(193, 193, 193);
+  padding: 3px 10px;
+}
+
+input[type=submit] {
+  background-color: #e96567;
+  border-radius: 5px;
+  color:#fff;
+  font-size: 1.1em;
+  padding: 10px 25px;
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+input[type=submit]:hover {
+  background-color: #e6595b;
+}
+
+form {
+  font-weight: 500;
+  font-size: 1.05em;
+}
+.contact-text{
+  /* border-right: 1px solid gray; */
+  padding-right: 25px;
+  font-weight: 500;
+}
+
+p{
+  color:rgb(80, 80, 80);
+}

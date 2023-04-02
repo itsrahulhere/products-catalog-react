@@ -1,0 +1,26 @@
+.copyright-footer {
+  background-color: rgb(212, 212, 212);
+  padding: 15px 0;
+}
+
+.footer-bottom {
+  text-align: left;
+  font-weight: 500;
+  font-size: 1.1em;
+  color: #e96567;
+}
+
+.contact {
+  color: black;
+  padding-left: 15px;
+}
+
+.footer-bottom a {
+  text-decoration: none;
+  color: #e96567;
+  padding-left: 15px;
+}
+
+.footer-bottom a:hover {
+  color: #e42a2d;
+}
